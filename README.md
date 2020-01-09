@@ -1,2 +1,2 @@
-# basic-code-of-c-
+# basic-code-of-c++
 codes for beginners
